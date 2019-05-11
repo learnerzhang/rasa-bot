@@ -1,0 +1,10 @@
+__pycache__
+env/
+
+rasa_core.log
+.idea
+.env
+.github
+.travis.yml
+.pre-commit-config.yaml
+pyproject.toml
