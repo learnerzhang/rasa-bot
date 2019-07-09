@@ -7,7 +7,7 @@ from rasa_core.dispatcher import Dispatcher
 from rasa_core.channels import CollectingOutputChannel
 from rasa_core.nlg import TemplatedNaturalLanguageGenerator
 
-from actions import ActionJoke
+from slack.actions import ActionJoke
 import uuid
 
 

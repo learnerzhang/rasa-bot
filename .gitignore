@@ -8,3 +8,8 @@ rasa_core.log
 .travis.yml
 .pre-commit-config.yaml
 pyproject.toml
+
+# models
+
+telegram-bot/models
+slack-bot/models
